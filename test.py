@@ -29,4 +29,4 @@ def get_like_id():
 	#return Pan_url
     
 if __name__ == '__main__':
-    get_like_id()
+    get_like_id() 
