@@ -28,5 +28,5 @@ def get_like_id():
 		print(Pan_url) #http://pansci.tw/archives/56822
 	#return Pan_url
     
-while 1:
+if __name__ == '__main__':
     get_like_id()
